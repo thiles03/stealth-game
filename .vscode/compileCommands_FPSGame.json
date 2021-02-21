@@ -30,6 +30,11 @@
 		"directory": "D:\\UE_4.26\\Engine\\Source"
 	},
 	{
+		"file": "D:\\\\Unreal\\\\Projects\\\\StealthGame\\\\Source\\\\FPSGame\\\\Private\\\\FPSObjectiveActor.cpp",
+		"command": "cl.exe @\"D:\\Unreal\\Projects\\StealthGame\\.vscode\\compileCommands_FPSGame\\FPSGame.182.rsp\"",
+		"directory": "D:\\UE_4.26\\Engine\\Source"
+	},
+	{
 		"file": "D:\\\\Unreal\\\\Projects\\\\StealthGame\\\\Source\\\\FPSGame\\\\Private\\\\FPSProjectile.cpp",
 		"command": "cl.exe @\"D:\\Unreal\\Projects\\StealthGame\\.vscode\\compileCommands_FPSGame\\FPSGame.182.rsp\"",
 		"directory": "D:\\UE_4.26\\Engine\\Source"
@@ -46,6 +51,11 @@
 	},
 	{
 		"file": "D:\\\\Unreal\\\\Projects\\\\StealthGame\\\\Source\\\\FPSGame\\\\Public\\\\FPSHUD.h",
+		"command": "cl.exe @\"D:\\Unreal\\Projects\\StealthGame\\.vscode\\compileCommands_FPSGame\\FPSGame.182.rsp\"",
+		"directory": "D:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal\\\\Projects\\\\StealthGame\\\\Source\\\\FPSGame\\\\Public\\\\FPSObjectiveActor.h",
 		"command": "cl.exe @\"D:\\Unreal\\Projects\\StealthGame\\.vscode\\compileCommands_FPSGame\\FPSGame.182.rsp\"",
 		"directory": "D:\\UE_4.26\\Engine\\Source"
 	},
