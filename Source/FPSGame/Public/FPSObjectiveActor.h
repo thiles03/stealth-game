@@ -17,6 +17,9 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
+	UStaticMeshComponent* Mesh;
+	USphereComponent* Sphere;
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
